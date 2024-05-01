@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Project A",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "status": "In Progress",
+    "deadline": "2024-05-15",
+    "team": ["John Doe", "Jane Smith"],
+    "createdAt": "2024-04-01T08:00:00Z"
+  },
+  {
+    "name": "Project B",
+    "description": "Nulla facilisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.",
+    "status": "Completed",
+    "deadline": "2024-06-30",
+    "team": ["Alice Johnson", "Bob Williams"],
+    "createdAt": "2024-04-05T10:00:00Z"
+  },
+  {
+    "name": "Project C",
+    "description": "Etiam nec risus vitae ex blandit consectetur.",
+    "status": "Pending",
+    "deadline": "2024-05-20",
+    "team": ["Emma Brown", "Michael Jones"],
+    "createdAt": "2024-04-10T12:00:00Z"
+  },
+  {
+    "name": "Project D",
+    "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "status": "In Progress",
+    "deadline": "2024-07-10",
+    "team": ["Sophia Davis", "David Miller"],
+    "createdAt": "2024-04-15T14:00:00Z"
+  },
+  {
+    "name": "Project E",
+    "description": "Fusce nec diam in mi efficitur malesuada.",
+    "status": "Completed",
+    "deadline": "2024-06-15",
+    "team": ["Olivia Wilson", "James Martinez"],
+    "createdAt": "2024-04-20T16:00:00Z"
+  },
+  {
+    "name": "Project F",
+    "description": "Donec auctor lectus et libero posuere tempor.",
+    "status": "In Progress",
+    "deadline": "2024-08-01",
+    "team": ["Ava Anderson", "William Taylor"],
+    "createdAt": "2024-04-25T18:00:00Z"
+  },
+  {
+    "name": "Project G",
+    "description": "Vivamus varius urna eget leo ullamcorper convallis.",
+    "status": "Pending",
+    "deadline": "2024-07-25",
+    "team": ["Emily Thomas", "Daniel Jackson"],
+    "createdAt": "2024-04-30T20:00:00Z"
+  },
+  {
+    "name": "Project H",
+    "description": "Duis mattis risus sed nisl lobortis, in volutpat sem venenatis.",
+    "status": "In Progress",
+    "deadline": "2024-09-10",
+    "team": ["Isabella White", "Alexander Garcia"],
+    "createdAt": "2024-05-01T08:00:00Z"
+  },
+  {
+    "name": "Project I",
+    "description": "Quisque id purus non urna hendrerit fringilla.",
+    "status": "Completed",
+    "deadline": "2024-08-20",
+    "team": ["Ethan Hernandez", "Mia Lopez"],
+    "createdAt": "2024-05-05T10:00:00Z"
+  },
+  {
+    "name": "Project J",
+    "description": "Aliquam ut justo sit amet dui rhoncus rutrum.",
+    "status": "Pending",
+    "deadline": "2024-09-30",
+    "team": ["Benjamin King", "Charlotte Hill"],
+    "createdAt": "2024-05-10T12:00:00Z"
+  },
+  {
+    "name": "Project K",
+    "description": "Maecenas in eros ut nisl eleifend accumsan.",
+    "status": "In Progress",
+    "deadline": "2024-10-15",
+    "team": ["Lucas Scott", "Scarlett Lewis"],
+    "createdAt": "2024-05-15T14:00:00Z"
+  },
+  {
+    "name": "Project L",
+    "description": "Integer fringilla risus quis risus rhoncus tristique.",
+    "status": "Completed",
+    "deadline": "2024-10-30",
+    "team": ["Henry Green", "Aria Adams"],
+    "createdAt": "2024-05-20T16:00:00Z"
+  },
+  {
+    "name": "Project M",
+    "description": "Curabitur mattis augue in nisl ultrices, vitae interdum enim egestas.",
+    "status": "In Progress",
+    "deadline": "2024-11-10",
+    "team": ["Jack Parker", "Lily Clark"],
+    "createdAt": "2024-05-25T18:00:00Z"
+  },
+  {
+    "name": "Project N",
+    "description": "Suspendisse in magna sed mi vehicula faucibus nec eu dolor.",
+    "status": "Pending",
+    "deadline": "2024-11-25",
+    "team": ["Luke Hill", "Ella Stewart"],
+    "createdAt": "2024-05-30T20:00:00Z"
+  },
+  {
+    "name": "Project O",
+    "description": "Nunc volutpat libero ac ipsum egestas, euismod lacinia felis varius.",
+    "status": "Completed",
+    "deadline": "2024-12-10",
+    "team": ["Gabriel Morris", "Chloe Adams"],
+    "createdAt": "2024-06-01T08:00:00Z"
+  },
+  {
+    "name": "Project P",
+    "description": "Praesent eu elit at enim vestibulum vestibulum sit amet et magna.",
+    "status": "In Progress",
+    "deadline": "2024-12-30",
+    "team": ["Jackson Price", "Zoe Cook"],
+    "createdAt": "2024-06-05T10:00:00Z"
+  },
+  {
+    "name": "Project Q",
+    "description": "Vestibulum fringilla velit nec turpis hendrerit, a vestibulum sapien fermentum.",
+    "status": "Pending",
+    "deadline": "2025-01-10",
+    "team": ["Logan Rivera", "Natalie Bell"],
+    "createdAt": "2024-06-10T12:00:00Z"
+  },
+  {
+    "name": "Project R",
+    "description": "Sed suscipit nisi a orci tempus, vel gravida dui consequat.",
+    "status": "In Progress",
+    "deadline": "2025-01-30",
+    "team": ["Carter Young", "Madison Cooper"],
+    "createdAt": "2024-06-15T14:00:00Z"
+  },
+  {
+    "name": "Project S",
+    "description": "Fusce nec diam in mi efficitur malesuada.",
+    "status": "Completed",
+    "deadline": "2025-02-15",
+    "team": ["Mason Reed", "Hannah Morris"],
+    "createdAt": "2024-06-20T16:00:00Z"
+  },
+  {
+    "name": "Project T",
+    "description": "Donec euismod nisi quis dui venenatis, vitae bibendum justo tempor.",
+    "status": "Pending",
+    "deadline": "2025-02-28",
+    "team": ["Aiden Long", "Luna Parker"],
+    "createdAt": "2024-06-25T18:00:00Z"
+  }
+]
